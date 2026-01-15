@@ -1,0 +1,20 @@
+body {
+    background-color: #13cfcf;;
+    color: #0000ff;
+    
+  }
+  h1{font-family:"Raleway"; color: #7b00a1;}
+  p{ font-family:"Quicksand";  padding: 10px; }
+  #p1{border: groove; border-color:rgb(144, 0, 240); color:rgb(44, 95, 2); font-size:22px;}
+  #box{border: solid; border-radius: 25px;  margin-left:  700px ; }
+  #p2{border:none; padding:20px; font-size:22px; }
+  #senjoimg{position:relative; bottom:-700px; border:solid; border-radius: 120px;border-width: 8px; }
+
+  #VA{position:relative; bottom:-1000px; border:solid; border-radius:120px ; border-width: 8px;}
+  #box2{border: solid;border-radius: 25px;   margin-left:  1000px ; margin-top:400px; }
+  #p3{border:none; padding:20px; font-size:22px; color:black; color: rgb(248, 0, 0); }
+  #box3{border: solid;  border-radius:  25px; height: 500px; width: 500px; margin-right: 1000px; border-width:4px ;}
+  #p4p5{font-size: 25px; color: rgb(248, 0, 0); padding:20px; }
+  #sumbit1 :hover{color:crimson;  background-color:#7b00a1;}
+  #mytext1{width: 180px; height: 60px; font-size:36px}
+  #mytext2{width: 180px; height: 60px; font-size:36px}
